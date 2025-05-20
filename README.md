@@ -38,7 +38,7 @@ This project automates UI testing for [https://www.saucedemo.com](https://www.sa
 ├── package.json
 
 ## Setup Instructions
-1. Clone the repo:https:```bash
+1. Clone the repo using: ```bash
 git clone https://github.com/ubongebe01/UI_Automation_Framework_with-_Playwright.git
 cd saucedemo-ui-playwright
 2. Install dependencies using: npm install
